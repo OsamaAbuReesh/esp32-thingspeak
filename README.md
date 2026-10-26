@@ -17,7 +17,7 @@ How it works:
 
 ## Links
 - **ThingSpeak public channel:** https://thingspeak.com/channels/3551913
-- **Wokwi project:** https://wokwi.com/projects/XXXXXXXX
+- **Wokwi project:** https://wokwi.com/projects/478979793229571073
 
 ## Wiring
 | DHT22 | ESP32 |
