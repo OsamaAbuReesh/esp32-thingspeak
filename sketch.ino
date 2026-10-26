@@ -9,7 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
-String apiKey = "YOUR_WRITE_API_KEY";
+String apiKey = "U0NMNBFIYCWABY9Y";
 String studentId = "12115003";
 
 void setup() {
